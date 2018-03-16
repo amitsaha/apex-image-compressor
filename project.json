@@ -1,0 +1,8 @@
+{
+  "name": "imagecompressor",
+  "description": "A Generic Image Compressor",
+  "memory": 128,
+  "timeout": 5,
+  "role": "<IAM ARN>",
+  "environment": {}
+}
